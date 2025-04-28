@@ -48,3 +48,6 @@ trojan://bcf96c9b-30bf-4ab0-bc28-6076218f2a14@103.224.182.249:443/?type=tcp&secu
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@69.162.95.2:443/?type=tcp&security=tls&sni=trus.moonfree.top#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%BA%F0%9F%87%B8%20US-69.162.95.2%3A443
 trojan://dongtaiwang.com@104.247.81.50:443/?type=tcp&security=tls&sni=trojan2.free4444.xyz#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%A8%F0%9F%87%A6%20CA-104.247.81.50%3A443
 trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.2.44.220:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#%F0%9F%94%92%20TR-TCP-TLS%20%F0%9F%87%AD%F0%9F%87%B0%20HK-20.2.44.220%3A443
+vless://67fbe406-ba82-4ba6-9be9-d14e91d1195e@172.245.234.211:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com.cn&fp=chrome&security=reality&pbk=f0fdocfHkO0vm0u77amLsiPslFoyU3lE4V7BIR6mS0s&sid=bf47a57e#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%BA%F0%9F%87%B8%20US-172.245.234.211%3A443
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.188.124:8880/?type=grpc&encryption=none&flow=#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B3%F0%9F%87%B1%20NL-84.32.188.124%3A8880
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.191.215:8880/?type=grpc&encryption=none&flow=#%F0%9F%94%92%20VL-GRPC-NONE%20%F0%9F%87%B3%F0%9F%87%B1%20NL-84.32.191.215%3A8880
